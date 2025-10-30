@@ -1,0 +1,17 @@
+name = "yames_server"
+author = "hexagonelle"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d93f77a648bf6f578295e2949ef7cd22ede12ae15676a0b0b594a23b6b18d401"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "configs\\paxi\\datapacks"
+no-internal-hashes = true
