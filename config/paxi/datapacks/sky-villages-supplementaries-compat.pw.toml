@@ -1,6 +1,6 @@
 name = "Sky Villages - Supplementaries Compat"
 filename = "SkyVillages-SupplementariesCompat-1.20.1-1.0.3.1.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

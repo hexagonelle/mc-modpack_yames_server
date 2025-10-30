@@ -3653,79 +3653,84 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/DnT Woodland Mansion Replacement.zip"
-hash = "5bc141fb0dbc428c52b932ffecfc76dfc84ba06423c1f45a648017653198d171"
-
-[[files]]
-file = "config/paxi/datapacks/Dragon Egg Loot.zip"
-hash = "4723e8852a57118019beec1fa347eace2159fb02509ee8331ea3c950a32910d2"
-
-[[files]]
-file = "config/paxi/datapacks/Immersive Generators.zip"
-hash = "454463c8c0785cafc0409c389974be9f99e9d06e878fd8b619fa4a4816f36bea"
-
-[[files]]
-file = "config/paxi/datapacks/VanillaTweaks_c590968_MC1.20-1.20.6.zip"
-hash = "dff169c2fcc981ddf2500eb2381156eef1ced32dc3b272550d8ef5e8470ae42b"
-
-[[files]]
-file = "config/paxi/datapacks/all-tropical-fish-collection.pw.toml"
-hash = "adf46961365f68f3427da2cdc8fff622d111716876849d51f7b27ba3c334051a"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/all-tropical-fish-datapack.pw.toml"
-hash = "59dcd649fb30eca4247ad36555f8e952ce4b1ebf0051c724a26fd31c09388b98"
+hash = "c11526a04596271ce6e799a17f749eb09503448dfbe187a44a0c88b1a656c108"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/better-end-cities-(vanilla).pw.toml"
-hash = "568426eaeb2c473ad491baf4511b25fbaf41023e8339658979ca68ae5c4d3e63"
+hash = "270b635e09de18250d51ddac162c90c04e17fc71fdb78c452a53078775e07394"
 metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/confetti creepers v2.2.8 (MC 1.20-1.20.6).zip"
-hash = "8f0692bf66a46194f1c7203c0eeb48f04858eca3868521aac427679d5de55d61"
 
 [[files]]
 file = "config/paxi/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
-hash = "9bbd764bc260954610ba2b03f74d782293914adb44edfd1d058b6b215d6265d2"
+hash = "da2b8d37867c5029ce53b23a99449edd6d71861a61cc953a36d8d27789712f09"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/double shulker shells v1.3.7 (MC 1.20-1.20.6).zip"
-hash = "3303aaf6b1aefe264c7cea1ac7f5a5fa783b9dc0d57d12d1455e28f0bdfe2fb9"
+file = "config/paxi/datapacks/dnt_woodlandmansionreplacement.pw.toml"
+hash = "056ff2437f07e852973581ed8aa9481dfe555ea56784a74536396ef21c1c7639"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/name colors v1.0.5 (MC 1.20-1.20.6).zip"
-hash = "dbfe031c64dc1563153b801db19eec9ad858e55fc78dcb6326d9f5570050043f"
+file = "config/paxi/datapacks/dragon_egg_loot.pw.toml"
+hash = "14a3e9c502671b64d1714d4e2a4aa63a814aaef712824fde5b7f81182f09cc74"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/silence mobs v1.2.2 (MC 1.20-1.20.6).zip"
-hash = "b4d35e1ff38a04054d877087a1c9b2ac7768c733e76d2406b0ecd115651a5934"
+file = "config/paxi/datapacks/immersivegenerators.pw.toml"
+hash = "f5e91cb961f8b254959e9a3288bae81ab6c85c561aeeabce00c708cdd8663650"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/sky-villages-farmers-delight-compat.pw.toml"
-hash = "e4f0b00ce0842ca2a1c5dadeb059f6ec077d457e175f779a6936c81cb89b7cc0"
+hash = "17d268573ff09554e2b789b3979dfb11910c59cbe62e8e6792027c1aaa644ef7"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/sky-villages-supplementaries-compat.pw.toml"
-hash = "8cefbcee13c2b5c7100512b9fab9efb85aee69f64fdf31c6e73565d28332ead1"
+hash = "b3ee60512b91dcc47fcaa924bfa510a5420765179dbdf98647b510388e3a008e"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/sky-villages-waystones-compat.pw.toml"
-hash = "54926190f54630e6c392b3c83eed46c343782e8e10556b2372db0bcfe4acc31c"
+hash = "aa25c9766f0312cc9a7cdd4973ff737485c8f3b458755e293b8087ce75f3d2ae"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/terralith_no_poop.zip"
-hash = "1d114b7b2bb699209e76b43c37c7b77e11549ab097e8d64bdbfdb61f9cdd6a6f"
+file = "config/paxi/datapacks/terralith_no_poop.pw.toml"
+hash = "518c3765faa6f61cd294bfb0e12ab6e02471facfd03adb179cbf5ff47378d3c7"
+metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/villager death messages v1.2.9 (MC 1.20-1.20.6).zip"
-hash = "9bd968f9a36bdf4679994f8a2a09e62c7ceebe2a2e528dcdc0ec0f2eb2c5f07f"
+file = "config/paxi/datapacks/vanillatweaks_confetticreepers.pw.toml"
+hash = "2d01ed90667c52a7b1e8b5ca8e2376e4023c9f686b580bf04e5ebb33386af965"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/vanillatweaks_coralgraveltrapdoors.pw.toml"
+hash = "8b274e8a5d1292184b71ba6fc80b81f7240c571e0a782e6aa99d8f8574a7c8f2"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/vanillatweaks_doubleshulker.pw.toml"
+hash = "2d67d17d4137563fd5c61ada07cf409d70784a40a27aeef28a325de863a26cc9"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/vanillatweaks_namecolors.pw.toml"
+hash = "081eab8182120c7adf2796d4cda6f335dbb8d26c2b9cbf3ffaa96d97af524246"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/vanillatweaks_silencemobs.pw.toml"
+hash = "f7271faac281de8583555fb26715e9118bae01ff6e00ea74ad8becb03a4e50b0"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/vanillatweaks_villagerdeathmessages.pw.toml"
+hash = "af7011822de9aa4c2620be5278e6b2641522d6abdac8629afdeabb552143d6aa"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -4594,10 +4599,6 @@ hash = "eccff6743aa52e1b0aa458559fffd2880a1541ec680a99a28fe21dc30f8db181"
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
 hash = "5978bc8606e32db38ae5ee108e2e9b9536f4744a040fa39ae2e26cce5e7ab753"
-
-[[files]]
-file = "gitignore"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -6700,7 +6701,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
 metafile = true
-
-[[files]]
-file = "packwizignore"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
