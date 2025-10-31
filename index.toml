@@ -5584,7 +5584,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
-hash = "3253ccfd94118b5fd6a5b00be0807474a73b23273f5374fd3c7d3cfa736d5ee9"
 metafile = true
 
 [[files]]
@@ -5908,6 +5907,10 @@ hash = "62e8f9c97fc1365d40025e696cdfc71e5df4b8b829c04db5e7055b5476b9e0a7"
 metafile = true
 
 [[files]]
+file = "mods/fluffy-fur.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
 metafile = true
@@ -6005,6 +6008,10 @@ metafile = true
 [[files]]
 file = "mods/immersive-machinery.pw.toml"
 hash = "f45e371916edd3de073a9733e494c1dc14fc10622330e78724f89333a9de7a04"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
 metafile = true
 
 [[files]]
@@ -6163,6 +6170,10 @@ hash = "f7f82c3216ba9bfac7b9d040d0a1845d94f693b70f9981f5caf497e81f73bfae"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "59ddb20cb1fddab5a1a0349e0452f5100c2bec8c51e746658553f92dc8239512"
 metafile = true
@@ -6270,6 +6281,10 @@ metafile = true
 [[files]]
 file = "mods/paintings.pw.toml"
 hash = "251684a5ea2bf6867a677150dc32c25b9be16192f1955530f4eadc1f708e2e8f"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
 metafile = true
 
 [[files]]
@@ -6433,6 +6448,10 @@ hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
 metafile = true
 
 [[files]]
+file = "mods/shetiphiancore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "fae6421244e2ff75e5a9a8723c7550d765f47d5885999653e792c95844c4fd15"
 metafile = true
@@ -6515,11 +6534,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-valheim-edition.pw.toml"
 hash = "9f3cbbcefac8103e51c156076d80644e30c12011d9621ae1042b62be7a387f26"
-metafile = true
-
-[[files]]
-file = "mods/spyglass-improvements.pw.toml"
-hash = "21bc76f708f32c6a37ee6f6e3020d046fdd712139a9e9cf7cf6523a96158effc"
 metafile = true
 
 [[files]]
