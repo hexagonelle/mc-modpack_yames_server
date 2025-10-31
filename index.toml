@@ -5584,6 +5584,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
+hash = "e32670267d78438c97c0cfbdb8cf4736975bc1e69fc9d93558f2cf682dac8f75"
 metafile = true
 
 [[files]]
@@ -5908,6 +5909,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluffy-fur.pw.toml"
+hash = "1a6e72e20f9de3bcd3ea6736b488106f35d8700f8b9af32eb13f3742f0943769"
 metafile = true
 
 [[files]]
@@ -6012,6 +6014,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
+hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
 metafile = true
 
 [[files]]
@@ -6171,6 +6174,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
+hash = "bbef5e271ea7e225d0cf05749ef319f682d830f75376d301b80aa16671223b4c"
 metafile = true
 
 [[files]]
@@ -6285,6 +6289,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
+hash = "3722f897bd3519b3bcf1bbb27eb26aa36ac9a581520056859d1ff1c931f3cbcc"
 metafile = true
 
 [[files]]
@@ -6449,6 +6454,7 @@ metafile = true
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
+hash = "16edf463baf8c96e0f13487f86c5933c512493a188d45f843db724baac2f12fd"
 metafile = true
 
 [[files]]
