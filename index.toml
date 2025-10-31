@@ -6538,6 +6538,11 @@ hash = "9f3cbbcefac8103e51c156076d80644e30c12011d9621ae1042b62be7a387f26"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "20a83d346e216aa6d1d3ee0258b744c700af490b6f68464c518b7f8747863d1a"
+metafile = true
+
+[[files]]
 file = "mods/stackablepotions-forge.pw.toml"
 hash = "4e665f1f9fa7bb5f8d11d1e643cf486967ad6b1b850ac0bd9949e9cbd41641f1"
 metafile = true
